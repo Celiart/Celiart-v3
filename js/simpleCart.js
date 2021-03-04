@@ -1,15 +1,4 @@
-/*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
-	Copyright (c) 2012 Brett Wejrowski
 
-	wojodesign.com
-	simplecartjs.org
-	http://github.com/wojodesign/simplecart-js
-
-	VERSION 3.0.5
-
-	Dual licensed under the MIT or GPL licenses.
-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-/*jslint browser: true, unparam: true, white: true, nomen: true, regexp: true, maxerr: 50, indent: 4 */
 
 (function (window, document) {
 	/*global HTMLElement */
