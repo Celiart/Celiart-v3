@@ -6,7 +6,7 @@ featured_image_path:
 facebook_image_path:
 ---
 
-Bine ai venit în lumea artei. Pregătește-te să te bucuri de experiența ta aici, și de serviciile pe care noi ți le putem oferi. Am realizat acest magazin online pentru ca mulți să poată comanda artă, sub diferite forme. Fie că este vorba de realizarea unui portret, sau de lucururi personalizate, noi îți putem îndeplini dorința! Poți găsi în secțiunea _Products_** lucurile pe care le avem deja expuse, sau în secțiunea _Personalizări_** de unde poți comanda diferite obiecte care să aibă amprenta ta. Începe de acum călătoria artei!
+Bine ai venit în lumea artei. Pregătește-te să te bucuri de experiența ta aici, și de serviciile pe care noi ți le putem oferi. Am realizat acest magazin online pentru ca mulți să poată comanda artă, sub diferite forme. Fie că este vorba de realizarea unui portret, sau de lucururi personalizate, noi îți putem îndeplini dorința! Poți găsi în secțiunea _Products_ lucurile pe care le avem deja expuse, sau în secțiunea _Personalizări_ de unde poți comanda diferite obiecte care să aibă amprenta ta. Începe de acum călătoria artei!
 
 <!-- carusel -->
 <!-- css -->
